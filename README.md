@@ -1,6 +1,6 @@
 # tsubasa
 
-<a href="https://app.daily.dev/1tsubasa"><img src="https://api.daily.dev/devcards/08ce73c11b0a4cd6baac861d561b90b9.png?r=v1a" width="400" alt="Tsubasa's Dev Card"/></a>
+<a href="https:/github.com/1Tsubasa"><img src="https://cdn.discordapp.com/attachments/1099120241822408824/1130381559036399686/tsubasaaaa.png" alt="Tsubasa"/></a>
 
 
 
