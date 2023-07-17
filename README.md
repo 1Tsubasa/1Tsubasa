@@ -1,6 +1,6 @@
 # tsubasa
 
-<a href="https://cdn.discordapp.com/attachments/1099120241822408824/1130381559036399686/tsubasaaaa.png"><img src="https://cdn.discordapp.com/attachments/1099120241822408824/1130381559036399686/tsubasaaaa.png"></a>
+<img src="https://cdn.discordapp.com/attachments/1099120241822408824/1130381559036399686/tsubasaaaa.png">
 
 
 
