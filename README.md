@@ -1,5 +1,5 @@
 # 💫 About Me:
-Clarity Owner<br>IT Enthusiast<br> Tsubasa & Sown & Sans & Ivy
+Clarity Owner<br>Leak-Demy Owner <br>IT Enthusiast<br> Tsubasa & Sown & Sans & Ivy
 
 
 ## 🌐 Socials:
