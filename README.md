@@ -1,5 +1,5 @@
 # 💫 About Me:
-Clarity Owner<br>IT Enthusiast
+Clarity Owner<br>IT Enthusiast<br> Sown & Tsubasa
 
 
 ## 🌐 Socials:
