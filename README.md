@@ -1,5 +1,5 @@
 # 💫 About Me:
-Clarity Owner<br>IT Enthusiast<br> Tsubasa & Ex & Sans & Ivy & Karma & Hyunjin
+Clarity Owner<br>IT Enthusiast<br> Tsubasa & Sans & Ivy & Hyunjin
 
 
 ## 🌐 Socials:
