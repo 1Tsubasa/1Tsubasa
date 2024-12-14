@@ -11,6 +11,7 @@
    <br><br>
    <pre align="center">
      <img src="./d2c7c201-52e0-418b-9753-f2939e29682b.jpg" width="30%">
+     <br>
     - Kon'nichi wa 🌞, boku wa Tsubasa, baka na wakai furusutakku debaroppa desu 🤪💻. Watashi wa kyōki ga daisuki de, donna purojekuto ni mo sukoshi no kyōki o irete imasu 🤯✨.
 <br>
     - Age : 22 Years Old
