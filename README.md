@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="./d2c7c201-52e0-418b-9753-f2939e29682b.jpg" width="30%">
-</div>
-
-<br><br>
-
-<div align="center">
    <img src="./7d54c3ee-b7c9-4c7e-8439-cf24fab1b734.jpg" width="70%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B5DF7&width=435&lines=Full+Stack+Developper" width="30%" align="center">
 </div>
@@ -16,6 +10,7 @@
    <img src="./295929d3-b60a-42da-9f16-98c835e1b771.jpg" width="40%">
    <br><br>
    <pre align="center">
+     <img src="./d2c7c201-52e0-418b-9753-f2939e29682b.jpg" width="30%">
     - Kon'nichi wa 🌞, boku wa Tsubasa, baka na wakai furusutakku debaroppa desu 🤪💻. Watashi wa kyōki ga daisuki de, donna purojekuto ni mo sukoshi no kyōki o irete imasu 🤯✨.
 <br>
     - Age : 22 Years Old
