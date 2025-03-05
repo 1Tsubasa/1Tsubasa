@@ -72,8 +72,6 @@
 <a href="https://discord.gg/8AGMz6dkmE">Clarity</a>
 <a href="https://discord.gg/9tBAwQvNdD">iHorizon</a>
 <a href="https://discord.gg/AP7rByp86x">CodingHeberg</a>
-<a href="https://discord.gg/shTcEjRaY2">Lyks</a>
-<a href="https://discord.gg/AjT36E4jbk">Hoc</a>
 </pre>
 </div>
 </div>
