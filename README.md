@@ -16,7 +16,7 @@
 <br>
     - Age : 22 Years Old
     - Duo : With Meliera / Mikky Of Clarity-Corp Project
-    - Localisation : France / Japan 
+    - Localisation : France
     - Passion : It
     - Hobbies : Sport, Learning, Music, Video Games, Anime/Manga
   </pre>
